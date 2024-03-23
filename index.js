@@ -14,3 +14,10 @@ function overwriteBestCustomer(){
 function changeLeastFavoriteCustomer(){
     leastFavoriteCustomer = 'Chel'
 }
+
+// const var1 = 1;
+// function outerFunc(var2 = 2) {
+//   const var3 = 2;
+//   return var3 - var1;
+// }
+// console.log(outerFunc())
